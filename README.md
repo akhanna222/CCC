@@ -1,7 +1,11 @@
 # CCC
 ########################
 ########################
-###### Core Team #######
+###    Core Team     ###
+## Lead developer - Abhishek Khanna
+## Strategist - Akanksha Puri
+## Strategist - Divya Prakash Mishra
+## Strategist - Kunal Gandhi
 ########################
 ########################
 
