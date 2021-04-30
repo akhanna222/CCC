@@ -1,7 +1,7 @@
 # CCC
 
 ###### Core Team  ######
-###### Lead developer - Abhishek Khanna, Strategist - Akanksha Puri, Strategist - Divya Prakash Mishra, Strategist - Kunal Gandhi
+###### Lead developer - Abhishek Khanna (Abi), Strategist - Akanksha Puri (Aki), Strategist - Divya Prakash Mishra (DP), Strategist - Kunal Gandhi (Kuga)
 
 
 
