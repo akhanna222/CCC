@@ -1,8 +1,7 @@
 # CCC
 
 ###### Core Team  ######
-###### Developer - Abhishek Khanna (Abi), Strategist - Akanksha Puri (Aki), Finance - Divya Prakash Mishra (DP), Marketing - Kunal Gandhi (Kuga)
-
+###### Developer - Abhishek Khanna (Abi)
 
 
 
